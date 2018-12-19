@@ -1,0 +1,54 @@
+   
+  ABOUT:
+   It is important for any type of business to keep track of stock and profit.\n Airtime profits are among the difficult aspects to keep track of.
+   By developing airtime profit calculator app, it will be easier for business people to have accurate data of their airtime sales. The app
+   herein seeks to compute value of daily and periodic airtime purchase so as to help determine period sales, thus computing profits from
+   airtime sales both on a daily basis as well as annually. This app will be a great asset as it will help the business people to calculate 
+   daily or periodic refills needed from wholesalers. Furthermore it will help to keep track of the fluctuating wholesale prices of the 
+   different airtime companys. Therefore profits of close of business daily will be effectively isolated. 
+ 
+  FUNCTIONALIES:
+   			
+   	DASHBOARD :-
+   		*******************************************************************************************************************************************
+   		
+   			
+   	STOCKS :-
+   		******************************************************************************************************************************************
+   		BUTTON Add -> simply adds new stock and displays it on the table.
+   		
+   		BUTTON Edit -> enables one to change the stocks data.
+   		
+   		BUTTON Remove -> enables one to delete a stock data.
+   		   		
+   		BUTTON Cancel -> clears the typed characters on the input options.
+   				
+   	SALES :-
+   		******************************************************************************************************************************************
+   		BUTTON Add -> simply adds new sales record and displays it on the table only if the record is listed on the stock.
+   		
+   		BUTTON Get -> first choose a date by pressing on the DateChooser icon on the far right, then press on "Get"
+   				     to display the sales record for that particular date.
+   		
+   		BUTTON Cancel -> clears the typed characters on the input options.
+   								
+   	ABOUT :-
+   		
+   		* Provides an over view on all what Airtime Profit Calculator is all about.
+   		BUTTON Cancel -> returns you back to the Sales menu.
+    
+  DEVELOPERS:
+  
+    Kamau Marvins,
+    Software developer | IT consultant.
+    Phone: +254 726 615 116
+    Email: murimi65@gmail.com
+    
+    Mbugua Daniel,
+    Software developer | Speak Java.
+    Phone: +254 733 745 544
+    Email: daenjelkirigo@gmail.com
+    
+   		"..going to bed at night saying we've done something wonderfull, that's what matters to me." -Steve Jobs
+   		
+   				(C) Copyright 2018 by Kamau Marvins, Mbugua Daniel Inc. All Rights Reserved.

@@ -1,2 +1,2 @@
-# murimi_POS
+# wesh_POS
 Diamonds and Gold

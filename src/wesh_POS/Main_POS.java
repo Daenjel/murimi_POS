@@ -2,6 +2,7 @@ package wesh_POS;
 
 import java.awt.Color;
 import java.awt.Font;
+import java.awt.Frame;
 import java.awt.SystemColor;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -45,6 +46,7 @@ public class Main_POS implements InternalFrameListener{
 	 */
 	public static void main(String[] args) {
 		SwingUtilities.invokeLater(new Runnable() {
+			@Override
 			public void run() {
 				new Main_POS();
 			}
@@ -81,7 +83,7 @@ public class Main_POS implements InternalFrameListener{
 		frame.setBounds(200, 100, 1000, 500);
 		frame.setTitle("WESH SPARES");
 		frame.setVisible(true);
-		frame.setExtendedState(JFrame.MAXIMIZED_BOTH);
+		frame.setExtendedState(Frame.MAXIMIZED_BOTH);
 		//Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();
 		//frame.setSize(screenSize.width, screenSize.height);
 		frame.setFont(new Font("Times New Roman", Font.ITALIC, 14));
